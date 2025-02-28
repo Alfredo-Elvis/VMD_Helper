@@ -1,6 +1,6 @@
 
 #===============================================================================  
-用途： 自动导入蛋白-配体系统的GROMACS轨迹。  
+用途： 自动导入蛋白-配体系统的GROMACS轨迹，并优化显示方式。  
 安装方法： 将此python文件放置到轨迹所在目录。  
 使用方法：  
 ① 打开python文件。   
@@ -9,7 +9,7 @@
 % source VMD.tcl (%不用输入)  
 最后更新时间：2025年2月28日  
 #===============================================================================  
-Purpose: Automatically imports GROMACS trajectories of protein-ligand systems.  
+Purpose: Automatically imports GROMACS trajectories of protein-ligand systems and and refines the display style.  
 Installation Method: Place this Python file in the directory containing the trajectory files.  
 set add_time_labels "Your path to VMD/add_time_labels.tcl" (quotation marks are required)  
 Usage:  
