@@ -17,7 +17,7 @@ Installation Method: Place this file in the VMD installation directory and set t
 set add_time_labels "Your path to VMD/add_time_labels.tcl" (quotation marks are required)  
 Usage:  
 ① Open VMD → Import trajectory  
-② VMD main interface → Extensions → Tk Console, and enter the following command in the panel:  
+② VMD main interface → Extensions → Tk Console, and input the following command in the panel:  
 % source $add_time_labels (No need to input the % symbol)  
 "Time Label" will appear in the VMD main interface, adjust the time to the lower-left corner,  
 double-click F to fix it, and press T or R to adjust other proteins to appropriate positions.  
