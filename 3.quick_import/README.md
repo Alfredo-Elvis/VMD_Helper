@@ -11,7 +11,6 @@
 #===============================================================================  
 Purpose: Automatically imports GROMACS trajectories of protein-ligand systems and and refines the display style.  
 Installation Method: Place this Python file in the directory containing the trajectory files.  
-set add_time_labels "Your path to VMD/add_time_labels.tcl" (quotation marks are required)  
 Usage:  
 ① Open the Python file.  
 ② Modify xtc_file, pdb_file, model_ID, and Show_Residues_Near_MOL with the corresponding values, and run it.  
